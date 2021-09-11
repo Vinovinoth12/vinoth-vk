@@ -1,0 +1,14 @@
+min= max=a[0];
+   For(i=1;i<n;i++)
+{
+    if(min>a[i]);
+          min=a[i];
+          if(max<a[i])
+          Max=a[i];
+}
+  printf("minimum of array is:%d",min):
+     print f("\nmaximum of array is :%d",max);
+
+
+  return 0;
+}
